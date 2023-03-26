@@ -19,7 +19,7 @@ Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/d
 
 ## Installing the theme
 
-If you're running Jekyll v3.7+ and self-hosting you can quickly install the theme as a Ruby gem.
+If you're runninvvvg Jekyll v3.7+ and self-hosting you can quickly install the theme as a Ruby gem.
 
 [^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
 
